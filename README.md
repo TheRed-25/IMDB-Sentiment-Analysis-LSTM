@@ -6,6 +6,8 @@ Banner](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat&logo=tenso
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)
 
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)🔍
+
+
 **A deep learning project for binary sentiment classification on IMDB
 movie reviews.**\
 This Jupyter Notebook builds an LSTM-based neural network to analyze
